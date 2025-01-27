@@ -1,0 +1,5 @@
+/* Add this to your CSS */
+.star-rating .fa-star.checked {
+    color: gold;
+  }
+  
