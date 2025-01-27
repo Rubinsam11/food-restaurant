@@ -638,7 +638,7 @@ body {
   }
 }
 
-@media (min-width: 759px) and (max-width: 1200px) {
+@media (min-width: 769px) and (max-width: 1200px) {
   .img-container h3 {
     font-size: 1.5rem;
   }
